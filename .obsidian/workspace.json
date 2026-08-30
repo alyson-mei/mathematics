@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
+                "file": "Set theory/03. Constructions/03. Natural numbers/03. Induction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Related constructions and properties"
+              "title": "03. Induction"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
+                "file": "Set theory/03. Constructions/03. Natural numbers/03. Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
+                "file": "Set theory/03. Constructions/03. Natural numbers/03. Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
+                "file": "Set theory/03. Constructions/03. Natural numbers/03. Induction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,9 @@
   },
   "active": "af1066879eba94cd",
   "lastOpenFiles": [
-    "Set theory/03. Constructions/03. Natural numbers/01. Main construction.md",
     "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
+    "Set theory/03. Constructions/03. Natural numbers/03. Induction.md",
+    "Set theory/03. Constructions/03. Natural numbers/01. Main construction.md",
     "Set theory/02. Operations/06. Power set.md",
     "Set theory/02. Operations/05. Direct sum.md",
     "Set theory/02. Operations/03. Union.md",
