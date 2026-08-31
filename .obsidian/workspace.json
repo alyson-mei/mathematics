@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set theory/04. Cardinality/01. Basics/Construction.md",
+                "file": "Set theory/04. Cardinality/01. Basics/01. Equivalence of sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construction"
+              "title": "01. Equivalence of sets"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "af1066879eba94cd",
   "lastOpenFiles": [
+    "Set theory/04. Cardinality/01. Basics/02..md",
+    "Set theory/04. Cardinality/01. Basics/01. Equivalence of sets.md",
     "Set theory/03. Constructions/03. Natural numbers/04. Basic Recursion.md",
-    "Set theory/04. Cardinality/01. Basics/Construction.md",
-    "Set theory/04. Cardinality/01. Basics/Untitled.md",
     "Set theory/04. Cardinality/01. Basics",
     "Set theory/04. Cardinality",
     "Set theory/03. Constructions/Basics of cardinality",
