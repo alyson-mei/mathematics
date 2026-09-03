@@ -29,8 +29,8 @@
               "state": {
                 "file": "Set theory/The Big Picture.canvas",
                 "viewState": {
-                  "x": 50,
-                  "y": 260,
+                  "x": -94.98917633632442,
+                  "y": 5.22564582667286,
                   "zoom": -0.9014361655164104
                 }
               },
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e349d59c4237038f",
