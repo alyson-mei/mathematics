@@ -6,7 +6,7 @@
 		{"id":"97054107c291a884","type":"text","text":"## Operations\n\n- $\\{ x \\in X \\mid P(x) \\}$\n-  $\\bigcap X$, $\\bigcup X$\n- $X \\cap Y$,  $X \\cup Y$, $X \\setminus Y$\n- $X \\times Y$, $X + Y$\n- $\\mathcal{P}(X)$, $X^Y$","x":-220,"y":-340,"width":540,"height":240},
 		{"id":"0a0c92dad2ebf070","type":"text","text":"## Natural numbers $\\mathbb{N}$\n\n- Construction from Infinity and Separation\n- Properties:\n\t- $n$ has exactly $n$ elements\n\t- $m \\in n \\Leftrightarrow m < n$ \n\t- $m \\subseteq n \\Leftrightarrow m \\leq n$\n- Basic induction and recursion\n- $n + m$, $n \\cdot m$, $n^m$ ","x":340,"y":-580,"width":470,"height":280},
 		{"id":"1183cbed7cc8ffe3","type":"text","text":"## Orders\n\n* Category of partial orders $\\mathcal{P}oset$ \n* Types of elements:\n\t* Maximal, greatest, sup\n\t* Minimal, smallest, inf\n- $X \\times Y$, $X + Y$, $X \\oplus Y$, $X \\otimes Y$ for posets","x":340,"y":-280,"width":470,"height":240},
-		{"id":"d48463afb302d277","type":"text","text":"## Cardinality basics\n\n - $X \\simeq Y$, $\\aleph_0$ \n - Th. (Cantor) $|X| < |\\mathcal{P}(X)|$\n - Th. (Schröder–Bernstein) $X \\preccurlyeq Y$, $Y \\preccurlyeq X$ => $X \\simeq Y$\n - Arithmetic properties","x":340,"y":-10,"width":470,"height":240}
+		{"id":"d48463afb302d277","type":"text","text":"## Cardinality basics\n\n - $X \\simeq Y$, $\\aleph_0$ \n - Th. (Cantor) $|X| < |\\mathcal{P}(X)|$\n - Th. (Schröder–Bernstein) $X \\preccurlyeq Y$, $Y \\preccurlyeq X$ => $X \\simeq Y$\n - Arithmetic properties\n - Some properties of finite and countable sets","x":340,"y":-10,"width":470,"height":310}
 	],
 	"edges":[]
 }
