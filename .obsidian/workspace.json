@@ -25,17 +25,14 @@
             "id": "1dd76bb811a6c029",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Set theory/The Big Picture.canvas",
-                "viewState": {
-                  "x": 570.3312577949815,
-                  "y": 310.96467725191343,
-                  "zoom": -1.932425245588653
-                }
+                "file": "Set theory/05. Ordinals/01. Transfinite Induction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Big Picture"
+              "icon": "lucide-file",
+              "title": "01. Transfinite Induction"
             }
           }
         ],
@@ -208,8 +205,11 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
-    "Set theory/04. Cardinality/01. Basics/01. Equivalence of sets.md",
-    "Set theory/04. Cardinality/01. Basics/02. Theorems.md",
+    "Set theory/The Big Picture.canvas",
+    "Set theory/05. Ordinals/01. Transfinite Induction.md",
+    "Set theory/05. Ordinals",
+    "Set theory/04. Cardinals/01. Basics/01. Equivalence of sets.md",
+    "Set theory/04. Cardinals/01. Basics/02. Theorems.md",
     "Set theory/03. Constructions/03. Natural numbers/03. Basic Induction.md",
     "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
     "Set theory/03. Constructions/03. Natural numbers/01. Main construction.md",
@@ -218,7 +218,6 @@
     "Set theory/03. Constructions/02. Relations/03. Types of relations.md",
     "Set theory/03. Constructions/02. Relations/02. Function.md",
     "Set theory/03. Constructions/02. Relations/01. Relation.md",
-    "Set theory/The Big Picture.canvas",
     "Set theory/01. ZFC Axioms/10. Choice.md",
     "Set theory/01. ZFC Axioms/09. Regularity.md",
     "Set theory/01. ZFC Axioms/08. Replacement schema.md",
@@ -231,13 +230,11 @@
     "Set theory/02. Operations/03. Union.md",
     "Set theory/01. ZFC Axioms/01. Extensionality.md",
     "Set theory/03. Constructions/03. Natural numbers/04. Basic Recursion.md",
-    "Set theory/04. Cardinality/01. Basics",
-    "Set theory/04. Cardinality",
+    "Set theory/04. Cardinals/01. Basics",
+    "Set theory/04. Cardinals",
     "Set theory/03. Constructions/Basics of cardinality",
     "Set theory/Induction and Recursion",
     "Set theory/03. Constructions/03. Natural numbers/05. Recursion 1.md",
-    "Set theory/02. Operations/06. Power set.md",
-    "Set theory/02. Operations/05. Direct sum.md",
-    "Set theory/02. Operations/01. Intersection.md"
+    "Set theory/02. Operations/06. Power set.md"
   ]
 }
