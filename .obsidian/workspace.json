@@ -25,14 +25,17 @@
             "id": "1dd76bb811a6c029",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Set theory/03. Constructions/03. Natural numbers/03. Basic Induction.md",
-                "mode": "source",
-                "source": false
+                "file": "Set theory/The Big Picture.canvas",
+                "viewState": {
+                  "x": 462.9193274874221,
+                  "y": 190.83110251311854,
+                  "zoom": -0.5435364118892476
+                }
               },
-              "icon": "lucide-file",
-              "title": "03. Basic Induction"
+              "icon": "lucide-layout-dashboard",
+              "title": "The Big Picture"
             }
           }
         ],
@@ -205,6 +208,7 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
+    "Set theory/03. Constructions/03. Natural numbers/03. Basic Induction.md",
     "Set theory/The Big Picture.canvas",
     "Set theory/03. Constructions/03. Natural numbers/02. Related constructions and properties.md",
     "Set theory/01. ZFC Axioms/10. Choice.md",
@@ -225,7 +229,6 @@
     "Set theory/04. Cardinality",
     "Set theory/03. Constructions/Basics of cardinality",
     "Set theory/Induction and Recursion",
-    "Set theory/03. Constructions/03. Natural numbers/03. Basic Induction.md",
     "Set theory/03. Constructions/03. Natural numbers/01. Main construction.md",
     "Set theory/03. Constructions/03. Natural numbers/05. Recursion 1.md",
     "Set theory/02. Operations/06. Power set.md",
