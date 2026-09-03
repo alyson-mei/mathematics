@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"97054107c291a884","x":-200,"y":-94,"width":540,"height":474,"type":"text","text":"## Operations\n\n- $\\{ x \\in X \\mid P(x) \\}$\n- $\\bigcup X$,\n- $X \\cap Y$, \n- $X \\setminus Y$\n- $X \\cup Y$, \n- $X \\time$"}
+	],
+	"edges":[]
+}

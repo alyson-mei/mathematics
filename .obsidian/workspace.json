@@ -11,14 +11,17 @@
             "id": "af1066879eba94cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Set theory/04. Cardinality/01. Basics/02. Theorems.md",
-                "mode": "source",
-                "source": false
+                "file": "Set theory/The Big Picture.canvas",
+                "viewState": {
+                  "x": -29.896984553598735,
+                  "y": 44.51441774072866,
+                  "zoom": -0.2777777667398809
+                }
               },
-              "icon": "lucide-file",
-              "title": "02. Theorems"
+              "icon": "lucide-layout-dashboard",
+              "title": "The Big Picture"
             }
           }
         ]
@@ -190,8 +193,9 @@
   },
   "active": "af1066879eba94cd",
   "lastOpenFiles": [
-    "Set theory/04. Cardinality/01. Basics/01. Equivalence of sets.md",
     "Set theory/04. Cardinality/01. Basics/02. Theorems.md",
+    "Set theory/The Big Picture.canvas",
+    "Set theory/04. Cardinality/01. Basics/01. Equivalence of sets.md",
     "Set theory/03. Constructions/03. Natural numbers/04. Basic Recursion.md",
     "Set theory/04. Cardinality/01. Basics",
     "Set theory/04. Cardinality",
