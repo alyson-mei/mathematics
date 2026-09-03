@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set theory/05. Ordinals/01. Transfinite Induction.md",
+                "file": "Set theory/05. Ordinals/02. Construction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Transfinite Induction"
+              "title": "02. Construction"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
-    "Set theory/The Big Picture.canvas",
     "Set theory/05. Ordinals/01. Transfinite Induction.md",
+    "Set theory/05. Ordinals/02. Construction.md",
+    "Set theory/The Big Picture.canvas",
     "Set theory/05. Ordinals",
     "Set theory/04. Cardinals/01. Basics/01. Equivalence of sets.md",
     "Set theory/04. Cardinals/01. Basics/02. Theorems.md",
