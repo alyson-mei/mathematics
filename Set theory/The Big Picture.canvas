@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"97054107c291a884","x":-200,"y":-94,"width":540,"height":474,"type":"text","text":"## Operations\n\n- $\\{ x \\in X \\mid P(x) \\}$\n- $\\bigcup X$,\n- $X \\cap Y$, \n- $X \\setminus Y$\n- $X \\cup Y$, \n- $X \\time$"}
+		{"id":"90c36200e366fe86","type":"text","text":"## ZFC axioms\n\n1. Extensionality: $$\\forall X \\ \\forall Y \\ (\\forall u \\ (u \\in X \\leftrightarrow u \\in Y) \\rightarrow X = Y)$$\n2. Empty set: $$\\exists X\\  \\forall u  \\ (u \\not \\in X)$$\n3. Pair: \n4. Separation schema\n5. Union\n6. Power set\n7. Infinity\n8. Replacement schema\n9. Regularity\n10. Choice","x":-200,"y":-560,"width":540,"height":380},
+		{"id":"97054107c291a884","type":"text","text":"## Operations\n\n- $\\{ x \\in X \\mid P(x) \\}$\n-  $\\bigcap X$, $\\bigcup X$\n- $X \\cap Y$,  $X \\cup Y$, $X \\setminus Y$\n- $X \\times Y$, $X + Y$\n- $\\mathcal{P}(X)$, $X^Y$","x":-200,"y":-120,"width":540,"height":474}
 	],
 	"edges":[]
 }
