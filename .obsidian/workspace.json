@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real analysis/I/Practice/MIPT/01. Real numbers, complex numbers, derivatives.md",
+                "file": "Real analysis/I/Practice/MIPT/02..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Real numbers, complex numbers, derivatives"
+              "title": "02."
             }
           }
         ],
@@ -203,11 +203,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "60564444bdeb8bd3",
+  "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
+    "Real analysis/I/Practice/MIPT/01. Real numbers, complex numbers, derivatives.md",
+    "Real analysis/I/Practice/MIPT/02..md",
     "Real analysis/I/Practice/MIPT",
     "Set theory/05. Ordinals/02. Construction.md",
-    "Real analysis/I/Practice/MIPT/01. Real numbers, complex numbers, derivatives.md",
     "Real analysis/I/Practice",
     "Real analysis/I",
     "Real analysis/Seminars",
