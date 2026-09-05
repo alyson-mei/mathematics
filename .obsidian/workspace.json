@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real analysis/I/Practice/MIPT/02..md",
+                "file": "Real analysis/I/Practice/MIPT/03. Limits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02."
+              "title": "03. Limits"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
+    "Real analysis/I/Practice/MIPT/02. Sequences.md",
+    "Real analysis/I/Practice/MIPT/03. Limits.md",
     "Real analysis/I/Practice/MIPT/01. Real numbers, complex numbers, derivatives.md",
-    "Real analysis/I/Practice/MIPT/02..md",
     "Real analysis/I/Practice/MIPT",
     "Set theory/05. Ordinals/02. Construction.md",
     "Real analysis/I/Practice",
@@ -237,7 +238,6 @@
     "Set theory/01. ZFC Axioms/02. Empty set.md",
     "Set theory/02. Operations/03. Union.md",
     "Set theory/01. ZFC Axioms/01. Extensionality.md",
-    "Set theory/03. Constructions/03. Natural numbers/04. Basic Recursion.md",
     "Set theory/04. Cardinals/01. Basics",
     "Set theory/04. Cardinals",
     "Set theory/03. Constructions/Basics of cardinality",
