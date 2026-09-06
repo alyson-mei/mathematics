@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real analysis/I/Theory/IMU/Untitled.md",
+                "file": "Real analysis/I/Theory/IMU/01. Elements of set theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01. Elements of set theory"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
+    "Real analysis/I/Theory/IMU/02..md",
+    "Set theory/01. ZFC Axioms/09. Regularity.md",
     "Real analysis/I/Theory/IMU/01. Elements of set theory.md",
-    "Real analysis/I/Theory/IMU/Untitled.md",
     "Real analysis/I/Practice/MIPT/03. Limits.md",
     "Real analysis/I/Theory/IMU",
     "Real analysis/I/Theory",
@@ -232,7 +233,6 @@
     "Set theory/03. Constructions/02. Relations/02. Function.md",
     "Set theory/03. Constructions/02. Relations/01. Relation.md",
     "Set theory/01. ZFC Axioms/10. Choice.md",
-    "Set theory/01. ZFC Axioms/09. Regularity.md",
     "Set theory/01. ZFC Axioms/08. Replacement schema.md",
     "Set theory/01. ZFC Axioms/07. Infinity.md",
     "Set theory/01. ZFC Axioms/06. Power set.md",
