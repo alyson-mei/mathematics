@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real analysis/I/Theory/IMU/01. Elements of set theory.md",
+                "file": "Real analysis/I/Theory/IMU/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Elements of set theory"
+              "title": "Untitled"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "1dd76bb811a6c029",
   "lastOpenFiles": [
-    "Real analysis/I/Practice/MIPT/03. Limits.md",
     "Real analysis/I/Theory/IMU/01. Elements of set theory.md",
+    "Real analysis/I/Theory/IMU/Untitled.md",
+    "Real analysis/I/Practice/MIPT/03. Limits.md",
     "Real analysis/I/Theory/IMU",
     "Real analysis/I/Theory",
     "Real analysis/I/Practice/MIPT/02. Sequences.md",
@@ -239,7 +240,6 @@
     "Set theory/01. ZFC Axioms/04. Separation schema.md",
     "Set theory/01. ZFC Axioms/03. Pair.md",
     "Set theory/01. ZFC Axioms/02. Empty set.md",
-    "Set theory/02. Operations/03. Union.md",
     "Set theory/04. Cardinals/01. Basics",
     "Set theory/04. Cardinals"
   ]
